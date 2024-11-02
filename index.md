@@ -19,7 +19,7 @@ print("Goodbye World...")
 This is all park of my journey to become a Cloud Solutions Architect. My progress is:
 - [x] Get Azure Fundamentals Certification
 - [x] Learn the basics of Linux/Bash
-- [ ] Learn the basics of Git/Github
+- [x] Learn the basics of Git/Github
 - [ ] Learn Cloud CLI and portal
 - [ ] Learn Python
 - [ ] Start Cloud Resume project
