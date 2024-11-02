@@ -14,3 +14,12 @@ Here is a some basic "Hello World" code:
 print("Hello World!")
 print("Goodbye World...")
 ```
+
+## Making a task list
+This is all park of my journey to become a Cloud Solutions Architect. My progress is:
+- [x] Get Azure Fundamentals Certification
+- [x] Learn the basics of Linux/Bash
+- [ ] Learn the basics of Git/Github
+- [ ] Learn Cloud CLI and portal
+- [ ] Learn Python
+- [ ] Start Cloud Resume project
